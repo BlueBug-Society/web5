@@ -5,12 +5,7 @@
 	font-family: 'poppins', sans-serif;
 	font-size: 18px;
 } 
-box{
-	height: 50vh;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-} 
+
 .container1{
     margin:auto;
    
